@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Joachim Ganseman
 email: joachim.ganseman@uantwerpen.be
+tagline: 'In three languages'
 description: >- # this means to ignore newlines until "baseurl:"
   This website serves as a central repository for info about myself
-  and the things I am or have been working on. As time progresses I will gradually 
-  add more content. In the meantime, happy browsing! 
+  and the things I am or have been working on. As time progresses I will gradually
+  add more content. In the meantime, happy browsing!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jganseman
@@ -26,10 +27,18 @@ github_username:  jganseman
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 #theme: minimal
-remote_theme: poole/hyde
+#remote_theme: poole/hyde
 plugins:
   - jekyll-feed
+
+# Permalinks
+permalink:        pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
