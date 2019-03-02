@@ -17,7 +17,7 @@ title: Joachim Ganseman
 email: joachim.ganseman@uantwerpen.be
 tagline: 'In three languages'
 description: >- # this means to ignore newlines until "baseurl:"
-  Some info about the things I am or have been working on. As time progresses
+  Some info about things I am or have been working on. As time progresses
   I will gradually add more content. Happy browsing!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
