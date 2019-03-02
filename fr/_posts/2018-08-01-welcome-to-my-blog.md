@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to my blog!
-lang: en
+title: Bienvenue à mon blog!
+lang: fr
 lang-ref: welcome-to-my-blog
 ---
 
-Welcome to my blog! Be sure to check out my OTHER ARTICLE.
+Bienvenue à mon blog! Lisez aussi mon autre article.

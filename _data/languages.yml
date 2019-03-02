@@ -1,6 +1,9 @@
 en:
   label: English
-  icon: 🇺🇸
-es:
-  label: Español
-  icon: 🇪🇸
+  icon: 🇬🇧🇺🇸
+nl:
+  label: Nederlands
+  icon: 🇧🇪🇳🇱
+fr:
+  label: français
+  icon: 🇧🇪🇫🇷

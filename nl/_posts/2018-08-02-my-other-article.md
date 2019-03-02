@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mi Otro Artículo
-lang: es
+title: Mijn ander artikel
+lang: nl
 lang-ref: my-other-article
 ---
 
-Este es mi otro artículo.
+Dit is mijn ander artikel.

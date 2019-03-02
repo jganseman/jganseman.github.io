@@ -1,5 +1,5 @@
 ---
 layout: index
-title: Artículos Recientes
-lang: es
+title: Recente Artikels
+lang: nl
 ---

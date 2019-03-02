@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My Other Article
-lang: en
+title: Mon Autre Article
+lang: fr
 lang-ref: my-other-article
 ---
 
-This is my other article.
+Voici mon autre article

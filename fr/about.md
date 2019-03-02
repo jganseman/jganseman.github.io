@@ -1,10 +1,10 @@
 ---
-title: Over de Auteur
+title: A propos de l'auteur
 layout: page
-lang: nl
+lang: fr
 lang-ref: about
----
 
+---
 ![](/public/img/soccer-chimp.jpg)
 
-Dit is een chimpansee.
+Photo d'un singe.
