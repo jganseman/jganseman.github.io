@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/{{ page.lang }}">All Posts</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/{{ page.lang }}">All Posts</a> -->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -18,6 +18,34 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages | where:"lang", page.lang %}
+
+      {% comment %}
+        Addition by jganseman: in order to have separate lists of current and previous projects,
+        Define two more layouts called 'current' and 'archive', pretty much identical
+        (only named differently to be able to group them here).
+      {% endcomment %}
+
+      <hr>
+      <h2>Current</h2>
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "current" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <hr>
+      <h2>Archive</h2>
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "archive" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <hr>
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -25,6 +53,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
     </nav>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
