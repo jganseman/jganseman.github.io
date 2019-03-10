@@ -1,8 +1,8 @@
 ---
 layout: current
-title: At Smals
+title: Werk
 lang: nl
 category: smals
 ---
 
-About my current work at Smals.
+Over mijn werk bij Smals.

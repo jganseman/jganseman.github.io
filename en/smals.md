@@ -1,6 +1,6 @@
 ---
 layout: current
-title: At Smals
+title: Work
 lang: en
 category: smals
 ---

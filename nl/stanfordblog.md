@@ -5,4 +5,4 @@ lang: nl
 category: stanfordblog
 ---
 
-This is my old stanford blog.
+TODO placeholder for my old Stanford blog.

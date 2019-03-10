@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Joachim Ganseman
 email: joachim.ganseman@uantwerpen.be
-tagline: 'In three languages'
+tagline: 'putting myself out there'
 logo: /public/img/photo.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   Some info about things I am or have been working on. As time progresses
