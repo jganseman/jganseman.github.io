@@ -6,3 +6,5 @@ category: pastprojects
 ---
 
 Things I've worked on in the past.
+
+<!-- TODO stanfordblog, beoi, kcb? -->

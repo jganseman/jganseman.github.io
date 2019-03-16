@@ -1,0 +1,19 @@
+---
+excerpt: "The absolute highlight of the American football season in San Francisco
+  and the Bay Area is the yearly game between Stanford and Berkeley, the Big Game."
+category: stanfordblog
+layout: post
+lang: en
+title: The Big Game
+created: 1259369766
+published: false
+---
+The absolute highlight of the American football season in San Francisco and the Bay Area is the yearly game between Stanford and Berkeley, the <a href="http://en.wikipedia.org/wiki/Big_Game_%28football%29" target=_blank">Big Game</a>. It is preceded by a week full of events. The symbol of Berkeley, or "Cal" for short, is a bear, and Big Game week starts at Stanford with spearing a teddybear onto The Claw, a sharp statue in the middle of a fountain near the student union building. That teddybear stays there until the end of the game and reminds everyone of the goal next saturday: "Beat Cal".
+
+The week is continued with rallies for the team ( <a href="http://www.youtube.com/watch?v=qBGlgTq4d_s" target="_blank"> video </a> ), events like blood donations, the cheerleaders selling their yearly calendar, all of this supported by the <a href="http://lsjumb.stanford.edu/home/" target="_blank"> Marching Band </a>. That marching band is pretty unique - unlike other harmonies or brassbands they don't have the habit of going in formal wear, but instead they make their own wacky costumes. This year the drum section was in Star Wars stormtrooper outfit. Tuba players paint their instruments in all kinds of colors, and the band as a whole is one giant circus act. The performance of the band on Big Game Day is always much anticipated, since every now and then they do something so <a href="http://en.wikipedia.org/wiki/Stanford_Band#Controversial_actions_by_the_band" target="_blank">daring or insulting</a> (for American standards) that Stanford nearly kicks them out. They kept it pretty friendly this time - a story was told about how unrealistic it is to have a fierce creature like a bear as mascot ("Have you ever encountered a grizzly? Generally, you don't want to be in its neighbourhood")
+
+Big Game Day was on saturday, november 21. The weather was fine and the Stanford Stadium, good for 50000 seats, completely sold out. People on parkings and in front of the stadium were barbecueing, picknicking, making hotdogs, generally having a good time. For students to get in, there were a limited amount of free tickets that were handed out on a first come first served basis. By starting to queue 90 minutes beforehand, I just managed to get into the stadium to see the game from myself, in the "Red Zone" which is reserved for students. During the first half of the game I managed to see the game from the stairs in front, for the second half I moved up and found a place on the last row with a nice overview of the field.
+
+American football is supposed to be played in 4 times 15 minutes, but the game contains so much stops, breaks, and time-outs that it lasts for over 3 hours. I didn't manage to understand more from the game than that it is apparently the purpose for one team to get the ball to the other side, and the other team to block them in any way they can. In essence, the team would run for 10 seconds and then get tackeled, with the next 30 seconds time-out to get back into position for the next 10 second run. Except these few times when someone manages to slip out and run for 30 metres, I find there's not too much suspense in the game. Every now and then, the game is also paused for commercials or sponsor announcements over the speakers.
+
+As for the result: we lost. Though Stanford has a pretty good team this year apparently and won the first half of this game, in the second half they were overclassed by Cal. The last small chance for victory was blown two minutes before the end. Next time better...
