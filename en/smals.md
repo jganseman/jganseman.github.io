@@ -5,4 +5,4 @@ lang: en
 category: smals
 ---
 
-About my current work at Smals.
+<!-- About my current work at Smals. -->

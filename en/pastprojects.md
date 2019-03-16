@@ -5,6 +5,6 @@ lang: en
 category: pastprojects
 ---
 
-Things I've worked on in the past.
+<!-- Things I've worked on in the past. -->
 
 <!-- TODO reorganize stanfordblog, beoi, kcb? -->

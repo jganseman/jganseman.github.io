@@ -5,4 +5,4 @@ lang: nl
 category: smals
 ---
 
-Over mijn werk bij Smals.
+<!-- Over mijn werk bij Smals. -->
