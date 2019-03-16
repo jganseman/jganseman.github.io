@@ -5,4 +5,4 @@ lang: en
 category: phd
 ---
 
-Posts about the Ph.D. work.
+<!-- I'm preparing a Ph.D. on audio source separation for music. This project is currently on hiatus. -->
