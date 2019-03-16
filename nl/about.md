@@ -5,7 +5,6 @@ lang: nl
 lang-ref: about
 ---
 
-<img src="/public/img/photo.jpg" width="200" class="joacenter">
 
 ### Bio
 

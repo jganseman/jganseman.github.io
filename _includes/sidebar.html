@@ -1,13 +1,18 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+
+      <img src="/public/img/photo.jpg" width="200" class="joasideimg joacenter">
+
       <h1>
-        <a href="/">
+        <a href="/{{ page.lang }}/about/">
           {{ site.title }}
         </a>
       </h1>
       <p>{{ site.description }}</p>
     </div>
+
+
 
     <nav class="sidebar-nav">
       <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/{{ page.lang }}">All Posts</a> -->
@@ -19,7 +24,8 @@
 
       {% assign pages_list = site.pages | where:"lang", page.lang %}
 
-      <hr>
+      <!-- <hr> -->
+      <!--
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -27,6 +33,27 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      -->
+
+      {% if site.linkedin_username %}
+      <a href="http://www.linkedin.com/pub/joachim-ganseman/4/7a/4bb">
+        <span class="followme linkedin"></span>
+      </a>
+      {% endif %}
+
+      {% if site.github_username %}
+      <a href="https://github.com/{{ site.github_username }}">
+        <span class="followme github"></span>
+      </a>
+      {% endif %}
+
+      {% if site.twitter_username %}
+      <a href="https://twitter.com/{{ site.twitter_username }}">
+        <span class="followme twitter"></span>
+      </a>
+      {% endif %}
+
+
 
       {% comment %}
         Addition by jganseman: in order to have separate lists of current and previous projects,
@@ -44,7 +71,7 @@
         {% endif %}
       {% endfor %}
 
-      <hr>
+      <!-- <hr> -->
       <!-- <h2>Archive</h2> -->
       {% for node in pages_list %}
         {% if node.title != null %}

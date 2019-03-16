@@ -6,8 +6,6 @@ lang-ref: about
 
 ---
 
-<img src="/public/img/photo.jpg" width="200" class="joacenter">
-
 ### Bio
 
 I am a computer scientist with a past as Ph.D. student at the [University of Antwerp](https://visielab.uantwerpen.be/), staying at [Queen Mary University](http://c4dm.eecs.qmul.ac.uk/) and [Stanford University](https://ccrma.stanford.edu/) in the process, and focusing on digital signal processing, machine learning and audio analysis. Since 2018 I work at [Smals](https://www.smalsresearch.be/) where I study AI-related topics, including Natural Language Processing and Conversational Interfaces, for their possible application in government.

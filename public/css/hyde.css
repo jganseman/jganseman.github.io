@@ -278,3 +278,62 @@ footer.lang-options ul > li {
   margin-left: auto;
   margin-right: auto;
 }
+
+.joasideimg {
+  border-radius: 100%;
+  display: flex;
+  flex: 0 0 150px;
+  height: 150px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 150px;
+}
+
+/* inspired on UAntwerpen website */
+.followme {
+    background-image: url('/public/img/socialmedia-buttons.png');
+    background-repeat: no-repeat;
+    background-position: 0px 9px;
+    width: 201px;
+    height: 33px;
+    display: block;
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+
+.followme.youtube {
+    background-position: 0px -3px;
+}
+
+.followme.facebook {
+    background-position: 0px -70px;
+}
+
+.followme.rss {
+    background-position: 0px -173px;
+}
+
+.followme.twitter {
+    background-position: 0px -207px;
+}
+
+.followme.github {
+    background-position: 0px -275px;
+}
+
+.followme.linkedin {
+    background-position: 0px -309px;
+}
+
+.followme.instagram {
+    background-position: 0px -414px;
+}
+
+.followme.scholar {
+    background-position: 0px -517px;
+}
+
+.followme.orcid {
+    background-position: 0px -796px;
+}
