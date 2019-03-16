@@ -36,6 +36,7 @@ kramdown:
 #remote_theme: poole/hyde
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Permalinks
 permalink:        pretty
