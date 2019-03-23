@@ -14,6 +14,8 @@ Naast het werk ben ik een [uitstekend pianist](https://speelhethard.be/project/1
 
 ### Contact
 
-Voor alles wat met mijn werk te maken heeft, neem je best contact op met [Smals](https://www.smals.be/nl/contact). Voor alle andere zaken werken [LinkedIn](https://www.linkedin.com/in/jganseman) of [Twitter](https://twitter.com/jganseman) meestal wel.
+Voor alles wat met mijn werk te maken heeft, neem je best contact op met [Smals](https://www.smals.be/nl/contact). Voor al de rest werken [LinkedIn](https://www.linkedin.com/in/jganseman) of [Twitter](https://twitter.com/jganseman) meestal wel.
 
-Ik [schrijf](https://www.smalsresearch.be/author/ganseman/) of [spreek](https://www.infosecurity.be/seminar-details.aspx?code=P105) al eens over onderwerpen die te maken hebben met Data Science en Artificiële Intelligentie. Wie me daarvoor wilt engageren mag altijd contact opnemen. [Leden van Smals](https://www.smals.be/nl/content/ledenlijst) contacteren daarvoor hun klantenbeheerder; voor non-profit of gratis evenementen doe ik meestal wel een geste; voor commerciële organisaties vind ik driemaal de standaard inkomprijs wel een goed startpunt wat betreft billijke vergoeding ;)
+Ik [schrijf](https://www.smalsresearch.be/author/ganseman/), [spreek](https://www.infosecurity.be/seminar-details.aspx?code=P105) en ben beschikbaar voor [consultancy](https://www.leforem.be/MungoBlobs/1391446217685/20190307_A2P_Les_metiers_de_l%27intelligence_artificielle.pdf) over onderwerpen zoals Data Science en Artificiële Intelligentie. Wie me daarvoor wilt engageren mag altijd contact opnemen. [Leden van Smals](https://www.smals.be/nl/content/ledenlijst) contacteren daarvoor hun klantenbeheerder; voor non-profit of gratis evenementen doe ik meestal wel een geste; van commerciële organisatoren of bedrijven verwacht ik een realistisch compensatie-aanbod ;)
+
+<!-- zo vind ik driemaal de standaard inkomprijs wel een goed startpunt wat betreft billijke vergoeding ;) -->
