@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Joachim Ganseman
-email: joachim.ganseman@uantwerpen.be
+email: joachim.ganseman@smals.be
 tagline: 'putting myself out there'
 logo: /public/img/photo.jpg
 description: >- # this means to ignore newlines until "baseurl:"

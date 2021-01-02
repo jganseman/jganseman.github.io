@@ -18,4 +18,4 @@ For anything related to my work, contact [Smals](https://www.smals.be/nl/contact
 
 I [write](https://www.smalsresearch.be/author/ganseman/), [speak](https://www.infosecurity.be/seminar-details.aspx?code=P105) and [consult](https://www.leforem.be/MungoBlobs/1391446217685/20190307_A2P_Les_metiers_de_l%27intelligence_artificielle.pdf) on topics related to Data Science and Artificial Intelligence in English, Dutch and French. Feel free to get in touch if you want to have me contributing to your project. [Members of Smals](https://www.smals.be/nl/content/ledenlijst) can contact their customer representative; for non-profits or free events I usually do an effort; from commercial event organizers or businesses I expect a realistic compensation proposal ;)
 
-<!-- consider three times your standard income fee a good starting point ;) -->
+<!-- consider three times the audience entrance fee a good starting point ;) -->
