@@ -4,6 +4,7 @@ To run locally:
 ```
 - git pull
 - bundle install
+- bundle update github-pages
 - bundle exec jekyll serve --livereload
 ```
 Edited in Atom, based on Hyde (may move to Hugo sometime later):
