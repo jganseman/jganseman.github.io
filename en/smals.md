@@ -2,6 +2,7 @@
 layout: current
 title: Work
 lang: en
+lang-ref: smals
 category: smals
 ---
 

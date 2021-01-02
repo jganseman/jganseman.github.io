@@ -2,6 +2,7 @@
 layout: archive
 title: Oude projecten
 lang: nl
+lang-ref: pastprojects
 category: pastprojects
 ---
 

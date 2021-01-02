@@ -2,6 +2,7 @@
 layout: current
 title: Ph.D. (on hold)
 lang: en
+lang-ref: phd
 category: phd
 ---
 

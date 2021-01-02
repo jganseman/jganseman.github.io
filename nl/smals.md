@@ -2,6 +2,7 @@
 layout: current
 title: Werk
 lang: nl
+lang-ref: smals
 category: smals
 ---
 

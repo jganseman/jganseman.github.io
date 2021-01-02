@@ -2,6 +2,7 @@
 layout: current
 title: Various
 lang: en
+lang-ref: varia
 category: varia
 ---
 

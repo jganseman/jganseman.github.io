@@ -2,6 +2,7 @@
 layout: archive
 title: Past projects
 lang: en
+lang-ref: pastprojects
 category: pastprojects
 ---
 
