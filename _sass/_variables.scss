@@ -1,0 +1,27 @@
+// Colors
+$color-bg:           #ffffff;
+$color-text:         #24292f;
+$color-text-muted:   #6e7781;
+$color-heading:      #1b1f23;
+$color-border:       #e1e4e8;
+$color-code-bg:      #f6f8fa;
+$color-code-text:    #c2455d;
+$color-accent:       #2f7d74;
+$color-sidebar-bg:   #1c1f22;
+$color-sidebar-text: rgba(255, 255, 255, .7);
+$color-sidebar-link: #ffffff;
+
+// Typography
+$font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$font-mono: "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+
+// Breakpoints
+$bp-sm:  30em;
+$bp-md:  38em;
+$bp-lg:  48em;
+$bp-xl:  58em;
+$bp-xxl: 64em;
+
+// Layout
+$sidebar-width:      18rem;
+$content-max-width:  44rem;
