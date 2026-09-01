@@ -41,6 +41,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # jekyll-seo-tag settings (https://github.com/jekyll/jekyll-seo-tag)
 # No `twitter:` config on purpose - avoid emitting Twitter Card meta tags.
