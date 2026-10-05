@@ -1,4 +1,20 @@
 <aside class="sidebar" aria-label="Sidebar">
+  {% assign language_codes = "nl,fr,en" | split: "," %}
+  <details class="sidebar-language-dropdown">
+    <summary aria-label="{{ site.data.translations['selectLang'][page.lang] }}: {{ site.data.languages[page.lang].label }}">{{ page.lang | upcase }}</summary>
+    <div class="sidebar-language-menu">
+      {% for language_code in language_codes %}
+        {% assign translated_page = site.pages | concat: site.posts | where: "lang-ref", page.lang-ref | where: "lang", language_code | first %}
+        {% if page.lang-ref and translated_page %}
+          {% assign language_url = translated_page.url %}
+        {% else %}
+          {% capture language_url %}/{{ language_code }}/{% endcapture %}
+        {% endif %}
+        <a class="sidebar-language-link{% if page.lang == language_code %} active{% endif %}" href="{{ language_url | relative_url }}" aria-label="{{ site.data.languages[language_code].label }}"{% if page.lang == language_code %} aria-current="page"{% endif %}>{{ language_code | upcase }}</a>
+      {% endfor %}
+    </div>
+  </details>
+
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
 
@@ -15,32 +31,25 @@
     <nav class="sidebar-nav" aria-label="Profiles and pages">
       {% assign pages_list = site.pages | where:"lang", page.lang %}
 
+      <div class="sidebar-profile-links">
       {% if site.linkedin_username %}
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn">
-        <svg class="icon-social" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-          <circle cx="16" cy="16" r="16"></circle>
-          <text x="16" y="21" text-anchor="middle">in</text>
-        </svg>
+      <a class="sidebar-profile-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn">
+        <img class="sidebar-profile-icon" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" aria-hidden="true">
       </a>
       {% endif %}
 
       {% if site.github_username %}
-      <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
-        <svg class="icon-social" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-          <circle cx="16" cy="16" r="16"></circle>
-          <text x="16" y="21" text-anchor="middle">GH</text>
-        </svg>
+      <a class="sidebar-profile-link" href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
+        <img class="sidebar-profile-icon" src="https://cdn.simpleicons.org/github/gray" alt="" aria-hidden="true">
       </a>
       {% endif %}
 
       {% if site.scholar_username %}
-      <a href="https://scholar.google.be/citations?user={{ site.scholar_username }}n" aria-label="Google Scholar">
-        <svg class="icon-social" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-          <circle cx="16" cy="16" r="16"></circle>
-          <text x="16" y="21" text-anchor="middle">GS</text>
-        </svg>
+      <a class="sidebar-profile-link" href="https://scholar.google.be/citations?user={{ site.scholar_username }}n" aria-label="Google Scholar">
+        <img class="sidebar-profile-icon" src="https://cdn.simpleicons.org/googlescholar" alt="" aria-hidden="true">
       </a>
       {% endif %}
+      </div>
 
       {% comment %} 'current' and 'archive' are separate layout names purely to group nav links below {% endcomment %}
       <hr>
@@ -61,6 +70,6 @@
       {% endfor %}
 
     </nav>
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p class="sidebar-copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </aside>

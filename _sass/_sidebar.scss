@@ -1,9 +1,10 @@
 /*
- * Sidebar, sticky sidebar, content offset, social icon badges.
+ * Sidebar, sticky sidebar, content offset, social icons.
  * Layout structure adapted from Hyde (https://github.com/poole/hyde), MIT licensed by @mdo.
  */
 
 .sidebar {
+  position: relative;
   text-align: center;
   padding: 2rem 1rem;
   color: $color-sidebar-text;
@@ -32,6 +33,37 @@
 
 .sidebar-nav {
   margin-bottom: 1rem;
+}
+.sidebar-copyright {
+  font-size: .75rem;
+}
+.sidebar-language-dropdown {
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  z-index: 2;
+  display: inline-block;
+}
+.sidebar-language-dropdown summary {
+  cursor: pointer;
+}
+.sidebar-language-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 2;
+  min-width: 100%;
+  padding: .25rem 0;
+  background: $color-sidebar-bg;
+  border: 1px solid rgba(255, 255, 255, .25);
+}
+.sidebar-language-link {
+  display: block;
+  padding: .25rem .5rem;
+  text-align: left;
+}
+.sidebar-language-link.active {
+  font-weight: 700;
 }
 .sidebar-nav-item {
   display: block;
@@ -84,39 +116,31 @@ a.sidebar-nav-item:focus {
   width: 150px;
 }
 
-// Circular monogram badges for social/profile links, replaces the old sprite image
-.icon-social {
-  width: 28px;
-  height: 28px;
-  display: inline-block;
+// Social/profile links contain only icons, so suppress the global hover underline.
+.sidebar-profile-links {
+  display: flex;
+  justify-content: center;
+  gap: .75rem;
   margin-bottom: .5rem;
 }
-.icon-social circle {
-  fill: rgba(255, 255, 255, .15);
-  transition: fill .15s ease-in-out;
+.sidebar-profile-link {
+  display: block;
+  flex: 0 0 15%;
 }
-.icon-social text {
-  fill: $color-sidebar-link;
-  font-family: $font-sans;
-  font-size: 11px;
-  font-weight: 700;
+.sidebar-profile-link:hover,
+.sidebar-profile-link:focus {
+  text-decoration: none;
 }
-a:hover .icon-social circle,
-a:focus .icon-social circle {
-  fill: rgba(255, 255, 255, .3);
+.sidebar-profile-icon {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
-// Visually hidden but available to assistive tech
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
+@media (min-width: $bp-lg) {
+  .sidebar-profile-links {
+    justify-content: flex-start;
+  }
 }
 
 // Skip-to-content link, hidden until focused
