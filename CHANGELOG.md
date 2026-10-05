@@ -4,6 +4,8 @@ Notable changes to the personal blog. Entries summarize updates relative to `mas
 
 ## `site-modernization` - 2026-10-05
 
+The legacy Hyde/Poole styles are dated and unmaintained, with limited responsive and layout fixes. Rather than adopt another full theme, this update replaces the bundled CSS with modular, project-owned Sass adapted from the existing layout, making future improvements easier to maintain (with some help from AI). This in preparation of a future, more thorough modernization or rewrite.
+
 ### Added
 - Modular Sass stylesheets, responsive layout refinements, and accessible skip-to-content navigation.
 - Jekyll SEO metadata, `robots.txt`, and voluntary AI-crawler opt-out metadata.
