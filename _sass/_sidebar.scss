@@ -1,0 +1,159 @@
+/*
+ * Sidebar, sticky sidebar, content offset, social icons.
+ * Layout structure adapted from Hyde (https://github.com/poole/hyde), MIT licensed by @mdo.
+ */
+
+.sidebar {
+  position: relative;
+  text-align: center;
+  padding: 2rem 1rem;
+  color: $color-sidebar-text;
+  background-color: $color-sidebar-bg;
+}
+@media (min-width: $bp-lg) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: $sidebar-width;
+    text-align: left;
+  }
+}
+
+.sidebar a {
+  color: $color-sidebar-link;
+}
+
+.sidebar-about h1 {
+  color: $color-sidebar-link;
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
+.sidebar-copyright {
+  font-size: .75rem;
+}
+.sidebar-language-dropdown {
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  z-index: 2;
+  display: inline-block;
+}
+.sidebar-language-dropdown summary {
+  cursor: pointer;
+}
+.sidebar-language-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 2;
+  min-width: 100%;
+  padding: .25rem 0;
+  background: $color-sidebar-bg;
+  border: 1px solid rgba(255, 255, 255, .25);
+}
+.sidebar-language-link {
+  display: block;
+  padding: .25rem .5rem;
+  text-align: left;
+}
+.sidebar-language-link.active {
+  font-weight: 700;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: 700;
+}
+
+@media (min-width: $bp-lg) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
+  }
+}
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+@media (min-width: $bp-lg) {
+  .content {
+    max-width: 90rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+@media (min-width: $bp-xxl) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+// Sidebar profile photo
+.joasideimg {
+  border-radius: 100%;
+  display: flex;
+  flex: 0 0 150px;
+  height: 150px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 150px;
+}
+
+// Social/profile links contain only icons, so suppress the global hover underline.
+.sidebar-profile-links {
+  display: flex;
+  justify-content: center;
+  gap: .75rem;
+  margin-bottom: .5rem;
+}
+.sidebar-profile-link {
+  display: block;
+  flex: 0 0 15%;
+}
+.sidebar-profile-link:hover,
+.sidebar-profile-link:focus {
+  text-decoration: none;
+}
+.sidebar-profile-icon {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: $bp-lg) {
+  .sidebar-profile-links {
+    justify-content: flex-start;
+  }
+}
+
+// Skip-to-content link, hidden until focused
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 0;
+  z-index: 100;
+  padding: .5rem 1rem;
+  background-color: $color-sidebar-bg;
+  color: $color-sidebar-link;
+  border-radius: 0 0 4px 0;
+}
+.skip-link:focus {
+  top: 0;
+}

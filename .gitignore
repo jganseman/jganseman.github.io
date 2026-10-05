@@ -1,4 +1,44 @@
+# ==============================================================================
+# Jekyll & GitHub Pages
+# ==============================================================================
+# Compiled site output
 _site/
+
+# Sass and Jekyll cache files
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# ==============================================================================
+# Ruby & Bundler
+# ==============================================================================
+# Local bundler config and vendor dependencies
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+
+# Compiled gem packages & log files
+*.gem
+*.log
+tmp/
+
+# ==============================================================================
+# VS Code
+# ==============================================================================
+.vscode/
+
+# ==============================================================================
+# Operating System Files
+# ==============================================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes

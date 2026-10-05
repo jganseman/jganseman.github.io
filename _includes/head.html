@@ -6,6 +6,9 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <!-- Voluntary opt-out signal for AI training crawlers that honor it; see also robots.txt -->
+  <meta name="robots" content="noai, noimageai">
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -15,14 +18,11 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/hyde.css">
-  <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">-->
+  <link rel="stylesheet" href="/public/css/main.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="/public/favicon.ico">
+  <link rel="shortcut icon" href="/public/favicon.ico">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
@@ -36,4 +36,7 @@
   <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
     {% endfor %}
   {% endif %}
+
+  <!-- title=false keeps the custom <title> above; seo tag still emits description, OG, canonical, JSON-LD -->
+  {% seo title=false %}
 </head>

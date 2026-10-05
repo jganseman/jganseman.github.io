@@ -1,0 +1,203 @@
+/*
+ * Body resets, typography, code, tables.
+ * Adapted from Poole (https://github.com/poole/poole), MIT licensed by @mdo.
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: $font-sans;
+  font-size: 16px;
+  line-height: 1.5;
+}
+@media (min-width: $bp-md) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  color: $color-text;
+  background-color: $color-bg;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  color: $color-accent;
+  text-decoration: none;
+}
+a strong {
+  color: inherit;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: $color-heading;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: $color-heading;
+}
+
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: 700;
+}
+dd {
+  margin-bottom: .5rem;
+}
+
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid $color-border;
+}
+
+abbr {
+  font-size: 85%;
+  font-weight: 700;
+  color: $color-text-muted;
+  text-transform: uppercase;
+}
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted $color-border;
+}
+
+code,
+pre {
+  font-family: $font-mono;
+}
+code {
+  padding: .2em .4em;
+  font-size: 85%;
+  color: $color-code-text;
+  background-color: $color-code-bg;
+  border-radius: 4px;
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .85rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+  background-color: $color-code-bg;
+  border-radius: 6px;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+
+.highlight {
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+.highlight pre {
+  margin-bottom: 0;
+}
+
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: $color-text-muted;
+  border-left: .25rem solid $color-border;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: $bp-sm) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 6px;
+}
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid $color-border;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid $color-border;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: $color-code-bg;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: $color-text-muted;
+  background-color: $color-code-bg;
+  border-radius: 6px;
+}
+
+// Center an image on the page
+.joacenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
