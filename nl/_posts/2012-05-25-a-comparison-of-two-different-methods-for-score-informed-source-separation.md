@@ -1,0 +1,11 @@
+---
+layout: post
+title: A Comparison of Two Different Methods for Score-Informed Source Separation
+lang: nl
+lang-ref: fritsch
+category: phd
+tags: [phd, nederlands]
+redirect_from: /nl/phd/2012/05/25/fritsch/
+---
+
+Aan Queen Mary University's Center for Digital Music, ondernam naamgenoot Joachim Fritsch een gedetailleerde vergelijking van Hennequin's audioseparatiemethode met de mijne, en stelde een hybride versie voor met betere resultaten. Zijn uitstekende werk, inclusief een nauwgezet manueel samengestelde evaluatiedatabase van multitrack audio-opnames, is beschikbaar in [C4DMs digitale archief](https://c4dm.eecs.qmul.ac.uk/rdr/handle/123456789/20).

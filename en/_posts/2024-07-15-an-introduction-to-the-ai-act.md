@@ -1,0 +1,11 @@
+---
+layout: post
+title: An Introduction to the AI Act
+lang: en
+lang-ref: kennismaking-ai-act
+category: smals
+tags: [smals, english]
+redirect_from: /en/smals/2024/07/15/ai-act/
+---
+
+The EU AI Act introduces rules for different types of AI systems. In [this Smals Research article](https://www.smalsresearch.be/een-eerste-kennismaking-met-de-ai-act/) I give an introductory overview of the law, its risk categories and the obligations they bring.

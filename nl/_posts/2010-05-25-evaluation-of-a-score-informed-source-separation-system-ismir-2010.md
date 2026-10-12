@@ -1,0 +1,11 @@
+---
+layout: post
+title: Evaluation of a score-informed source separation system (ISMIR 2010)
+lang: nl
+lang-ref: ismir2010
+category: phd
+tags: [phd, nederlands]
+redirect_from: /nl/phd/2010/05/25/ismir2010/
+---
+
+Meer info over de ISMIR 2010 paper *Evaluation of a score-informed source separation system*, inclusief de database gebruikt voor evaluatie, is [hier](https://ccrma.stanford.edu/~jga/ismir2010/ismir2010.html) te vinden.

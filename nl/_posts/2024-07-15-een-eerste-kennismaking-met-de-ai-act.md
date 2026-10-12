@@ -1,0 +1,11 @@
+---
+layout: post
+title: Een eerste kennismaking met de AI Act
+lang: nl
+lang-ref: kennismaking-ai-act
+category: smals
+tags: [smals, nederlands]
+redirect_from: /nl/smals/2024/07/15/ai-act/
+---
+
+De Europese AI Act introduceert regels voor verschillende soorten AI-systemen. In [dit artikel voor Smals Research](https://www.smalsresearch.be/een-eerste-kennismaking-met-de-ai-act/) geef ik een eerste overzicht van de wet, de risicocategorieën en de bijbehorende verplichtingen.

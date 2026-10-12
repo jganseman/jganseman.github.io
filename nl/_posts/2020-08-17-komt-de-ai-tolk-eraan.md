@@ -1,0 +1,15 @@
+---
+layout: post
+title: Komt de AI-tolk eraan?
+lang: nl
+lang-ref: ai-tolk
+category: smals
+tags: [smals, nederlands]
+redirect_from: /nl/smals/2020/08/17/ai-tolk/
+---
+
+Voor professionele vertalers verandert de snelle opkomst van online vertaalmotoren (Google/Bing Translate, Deepl, etc.) hun jobinhoud. Maar zijn die ook bruikbaar voor simultaantolken? In dit [artikel voor de blog van Smals Research](https://www.smalsresearch.be/komt-de-ai-tolk-eraan/) werp ik een blik op de uitdagingen en de stand van de technologie.
+
+Dit artikel werd met enkele kleine updates ook gepubliceerd in [IT Daily](https://itdaily.be/blogs/data/computers-en-vertalingen-komt-de-ai-tolk-eraan/).
+
+Een verwante technologie voor spraak is besproken in deze korte [BabbleLabs Clear Edge-review](https://www.smalsresearch.be/babblelabs-clear-edge-speech-enhancement/).

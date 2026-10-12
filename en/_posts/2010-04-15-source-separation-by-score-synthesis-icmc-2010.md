@@ -1,0 +1,11 @@
+---
+layout: post
+title: Source Separation by Score Synthesis (ICMC 2010)
+lang: en
+lang-ref: icmc2010
+category: phd
+tags: [phd, english]
+redirect_from: /en/phd/2010/04/15/icmc2010/
+---
+
+Detailed information about the ICMC 2010 paper *Source Separation by Score Synthesis*, including audio examples and data files, is available on [my CCRMA pages](https://ccrma.stanford.edu/~jga/icmc2010/icmc2010.html)
