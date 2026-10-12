@@ -4,6 +4,7 @@ excerpt: "It's been some time since I've been writing here, so in a few posts I'
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: earthquakes
 title: Earthquakes!
 created: 1265151275
 published: false

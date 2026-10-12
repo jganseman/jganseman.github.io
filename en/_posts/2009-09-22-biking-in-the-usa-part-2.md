@@ -3,6 +3,7 @@ excerpt: "In general, bike paths are very rare in the US, and bikes are equally 
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: biking-usa-part-2
 title: Biking in the USA, part 2
 created: 1253599693
 published: false

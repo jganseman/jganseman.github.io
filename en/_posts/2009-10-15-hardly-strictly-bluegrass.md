@@ -5,6 +5,7 @@ excerpt: "Every year, some eccentric Californian billionaire and music lover clo
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: hardly-strictly-bluegrass
 title: Hardly Strictly Bluegrass
 created: 1255594344
 published: false

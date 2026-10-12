@@ -3,6 +3,7 @@ excerpt: "I'll be spending a few months as 'visiting researcher' at Stanford Uni
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: destination-california
 title: Destination California
 created: 1251236743
 published: false

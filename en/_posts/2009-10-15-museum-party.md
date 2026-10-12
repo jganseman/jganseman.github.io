@@ -5,6 +5,7 @@ excerpt: "The Cantor Arts
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: museum-party
 title: Museum Party
 created: 1255590588
 published: false

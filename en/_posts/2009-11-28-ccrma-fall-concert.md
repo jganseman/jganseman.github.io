@@ -5,6 +5,7 @@ excerpt: "Every term there are several concerts going on at CCRMA, and in most o
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: ccrma-fall-concert
 title: CCRMA fall concert
 created: 1259366031
 published: false

@@ -5,6 +5,7 @@ excerpt: "Thanksgiving means turkey dinners, and I had two today - the first one
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: thanksgiving
 title: Thanksgiving
 created: 1259378291
 published: false

@@ -5,6 +5,7 @@ excerpt: "A few days ago I attended a lecture at the Bechtel International Cente
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: resident-or-not
 title: Resident or not?
 created: 1252907668
 published: false

@@ -1,0 +1,21 @@
+---
+excerpt: De NAMM Show is 's werelds grootste vakbeurs voor de muziekindustrie en wordt elk jaar in Anaheim gehouden.
+category: stanfordblog
+layout: post
+lang: nl
+lang-ref: los-angeles
+title: Los Angeles
+created: 1265160175
+published: false
+---
+De [NAMM Show](http://www.namm.org/thenammshow/2010) is 's werelds grootste vakbeurs voor de muziekindustrie. Meer dan duizend bedrijven komen half januari naar Anaheim om hun nieuwste ontwikkelingen te presenteren. Zo'n 50.000 bezoekers bekijken het aanbod in het Anaheim Convention Center, recht tegenover Disneyland. Gewoonlijk is de beurs alleen toegankelijk voor mensen uit de muziekindustrie, maar wij kwamen als groep van een opleiding Muziektechnologie binnen. De rit van San Francisco naar Los Angeles duurt zeven uur (reken op nog eens drie uur als je de spits of een file treft).
+
+Met bijna twintig mensen vertrokken we voor een kort weekend naar Los Angeles om de beurs te bezoeken. Het organiseren was niet makkelijk omdat iedereen een ander rooster had, maar uiteindelijk kwam alles goed. Ik kon logeren bij de ouders van een medestudent die uit Los Angeles komt. Dat was handig, want hij kende ook de beste plekken om iets te eten of te drinken. Als je ooit goede koffie zoekt in Santa Monica, probeer dan [Funnel Mill](http://www.funnelmill.com/), waar ze de koffie van je keuze vers malen en zetten met behulp van [vacuümkoffie](http://en.wikipedia.org/wiki/Siphon_coffee). Die techniek had ik nog nooit gezien, maar de koffie was heerlijk. Voor een enorme keuze aan lokale en internationale bieren kun je terecht bij [Naja's Place](http://www.najasplace.com/) aan de boulevard van de jachthaven in Redondo Beach. De laatste avond sloten we af met heerlijke sushi bij Sushi Mon in Downtown LA.
+
+We verbleven vlak bij Sunset Boulevard in Santa Monica, een flink eind van Anaheim. Op de kaart lijkt het alsof je alleen naar de andere kant van de stad hoeft, maar Los Angeles is in werkelijkheid één enorme buitenwijk. Woningen, industrie en kantoren liggen door elkaar; stadsplanning ontbreekt vrijwel en er is veel beton en weinig groen. Om een idee van de schaal te geven, maakte ik een afbeelding met twee kaarten op precies dezelfde schaal (via MapQuest, vanwege de equirectangulaire projectie die de schaal behoudt). Denk je de districten van Antwerpen eens uitgestrekt over de hele provincie: zo groot is Greater LA.
+
+Het is meteen duidelijk dat een bus die op elke hoek stopt geen optie is om van het ene uiteinde van de stad naar het andere te reizen; afstanden die hier heel normaal zijn, zijn enorm. Door de schaal en doordat mensen verspreid wonen en werken, is er nauwelijks een manier om een goedkoop en efficiënt openbaarvervoersysteem op te zetten. Daarom doorkruisen meerdere enorme snelwegen de stad om al het autoverkeer te verwerken, met voortdurende smog en files tot gevolg. Als je ergens naartoe wilt, heb je bovendien een auto nodig. Een echt stadscentrum is er niet. Voor een beetje keuze moet je bereid zijn 25 kilometer te rijden.
+
+De NAMM Show was de moeite van de reis waard: erg luidruchtig, druk en vermoeiend. Langs alle bedrijven lopen die hun spullen proberen te promoten en verkopen is interessant, maar beroemdheden spotten is ook leuk: bekende artiesten komen naar de beurs om nieuw speelgoed te bekijken. Toen we uiteindelijk met tassen vol promotiemateriaal, demo's en andere spullen uit Los Angeles vertrokken, was het weer omgeslagen. We reden weg tijdens een zware storm; op sommige plekken stonden de snelwegen blank en waren de rijomstandigheden gevaarlijk. Maar eenmaal over de heuvels ten noorden van LA brak de zon door en was het uitzicht vanaf de hellingen prachtig. Later hoorden we dat er in delen van Los Angeles kleine tornado's waren geweest, iets wat in Californië niet hoort voor te komen. De weerdienst weet het aan El Niño. Een paar dagen later kregen we in Palo Alto zelf ook een portie storm.
+
+Tot slot: als je er ooit bent, doe jezelf een plezier en stop bij een [In-N-Out Burger](http://www.in-n-out.com/). Die is oneindig veel beter dan McDonald's: deze fastfoodketen gebruikt geen diepvriesproducten en maakt alles vers. Ontdekking van de maand.

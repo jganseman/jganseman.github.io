@@ -3,6 +3,7 @@ excerpt: "The NAMM show is the largest tradeshow for the music industry in the w
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: los-angeles
 title: Los Angeles
 created: 1265160175
 published: false

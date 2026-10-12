@@ -5,6 +5,7 @@ excerpt: "I still need to figure out how dining at the university restaurants an
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: iced-mocha
 title: Iced Mocha
 created: 1253082993
 published: false

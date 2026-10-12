@@ -4,6 +4,7 @@ excerpt: "This weekend has been mostly a shopping weekend. Saturday morning I pl
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: going-shopping
 title: Going Shopping
 created: 1252911310
 published: false

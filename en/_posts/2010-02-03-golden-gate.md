@@ -3,6 +3,7 @@ excerpt: On one of the stormy days last week, I made a tour of San Francisco by 
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: golden-gate
 title: Golden Gate
 created: 1265160734
 published: false
