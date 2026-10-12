@@ -3,6 +3,7 @@ excerpt: "I know the Cheesecake Factory mainly through The Big Bang Theory comed
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: cheesecake-factory
 title: The Cheesecake Factory
 created: 1253590474
 published: false

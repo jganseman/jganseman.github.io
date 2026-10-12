@@ -1,0 +1,11 @@
+---
+layout: post
+title: De AI-arbeidsmarkt
+lang: nl
+lang-ref: ai-arbeidsmarkt
+category: smals
+tags: [smals, nederlands]
+redirect_from: /nl/smals/2019/03/07/forem/
+---
+
+In opdracht van de afdeling *analyse en prospectie van de arbeidsmarkt* van FOREM, de Waalse tegenhanger van VDAB, werkte ik als lid van het expertenpanel mee aan hun laatste rapport over de evolutie en opportuniteiten van AI-gerelateerde beroepen: [Métiers d'avenir - Les métiers de l'intelligence artificielle](https://www.leforem.be/MungoBlobs/1391446217685/20190307_A2P_Les_metiers_de_l%27intelligence_artificielle.pdf) (document in het Frans). 

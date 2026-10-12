@@ -3,6 +3,7 @@ excerpt: "One of the classes that I regularly attend is Music 250a."
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: getting-started-arduino
 title: Getting started with Arduino
 created: 1255589804
 published: false

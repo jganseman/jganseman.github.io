@@ -4,6 +4,7 @@ excerpt: "November has started, but temperatures during the day still reach 18º
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: walking-the-dish
 title: Walking the Dish
 created: 1257987171
 published: false

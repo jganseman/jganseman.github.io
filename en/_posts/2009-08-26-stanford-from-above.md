@@ -4,6 +4,7 @@ excerpt: "The CCRMA is located in a building called The Knoll. The campus has th
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: stanford-from-above
 title: Stanford from above
 created: 1251238858
 published: false

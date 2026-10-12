@@ -1,0 +1,11 @@
+---
+layout: post
+title: KCB digitale bibliotheek
+lang: nl
+lang-ref: exit-kcb
+category: pastprojects
+tags: [kcb, nederlands]
+redirect_from: /nl/pastprojects/2016/11/04/exit-kcb/
+---
+
+Van 2014 tot 2016 ontwikkelde ik de [online bibliotheek van het Koninklijk Conservatorium Brussel](https://catalog.b-bc.org/). Dat omvatte het hele project van analyse tot oplevering, de setup en configuratie van een nieuw OPAC-systeem, een serieuze inspanning om de datakwaliteit op een aanvaardbaar niveau te krijgen, datamigratie, statistiek en monitoring, etc. Het lijvige eindrapport van de volledige migratie is [hier](http://visiepc16.cde.ua.ac.be/varia/Migratie-rapport.pdf) beschikbaar.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: MusicHackDay SF 2010
+lang: en
+lang-ref: mhd-sf-2010
+category: varia
+tags: [varia, english]
+redirect_from: /en/varia/2010/05/16/mhd-sf/
+---
+
+The result of MusicHackDay San Francisco, May 15-16 2010: a proof-of-concept plugin for MuseScore that returns a list of available recordings for an opened music score, as given by last.fm . [More details here](http://musichackdaysf2010.pbworks.com/w/page/26281918/RecordFinder%20for%20MuseScore).
+
+<!-- note: see https://musescore.org/nl/handbook/music-hack-day for more hackday results -->

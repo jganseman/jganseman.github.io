@@ -1,12 +1,206 @@
-# Standard search engines are welcome.
+# Strict allowlist: robots.txt matches user-agent tokens.
+# Unlisted agents are denied; user-agent strings can be spoofed.
 User-agent: *
-Allow: /
-
-# Known AI-training crawlers - voluntary opt-out, not all bots honor this.
-User-agent: GPTBot
 Disallow: /
 
+# Major search/indexing crawlers.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: MicrosoftPreview
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: SeznamSocialBot
+Allow: /
+
+User-agent: MojeekBot
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+# Major answer/search crawlers and user-requested fetchers.
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ChatGPT-Operator
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: meta-webindexer
+Allow: /
+
+User-agent: meta-externalfetcher
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: PhindBot
+Allow: /
+
+User-agent: TavilyBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+# Blocked search/data crawlers.
+User-agent: Yandex
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: YandexVideo
+Disallow: /
+
+User-agent: YandexMobileBot
+Disallow: /
+
+User-agent: Mail.RU_Bot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+# More blocked search, AI, and data crawlers.
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: Sogou spider2
+Disallow: /
+
+User-agent: Sogou blog
+Disallow: /
+
+User-agent: Sogou News Spider
+Disallow: /
+
+User-agent: Sogou Orion spider
+Disallow: /
+
+User-agent: Sosospider
+Disallow: /
+
+User-agent: JikeSpider
+Disallow: /
+
+User-agent: ChinasoSpider
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: TencentTraveler
+Disallow: /
+
+User-agent: ChatGLM-Spider
+Disallow: /
+
+User-agent: ChatGLM
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: Alibaba.Security.Heimdall
+Disallow: /
+
+# Block particular model-training/data-collection crawlers.
+User-agent: GPTBot
 Disallow: /
 
 User-agent: CCBot
@@ -21,16 +215,25 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
-User-agent: Bytespider
+User-agent: Applebot-Extended
 Disallow: /
 
 User-agent: Amazonbot
 Disallow: /
 
-User-agent: Applebot-Extended
+User-agent: meta-externalagent
 Disallow: /
 
-User-agent: PerplexityBot
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
 Disallow: /
 
 User-agent: Diffbot
@@ -39,4 +242,5 @@ Disallow: /
 User-agent: omgili
 Disallow: /
 
-Sitemap: https://www.ganseman.be/atom.xml
+
+Sitemap: https://www.ganseman.be/sitemap.xml

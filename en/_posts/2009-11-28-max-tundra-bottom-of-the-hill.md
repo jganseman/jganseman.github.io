@@ -3,6 +3,7 @@ excerpt: "My housemate Keith invited me yesterday to go to a concert by Max Tund
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: max-tundra-bottom-of-the-hill
 title: Max Tundra @ Bottom of the Hill
 created: 1259376113
 published: false

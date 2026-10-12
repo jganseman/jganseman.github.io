@@ -4,6 +4,7 @@ excerpt: "After 36 multiple choice questions and only 3 mistakes (not that easy 
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: driver-license-part-1
 title: Driver license, part 1
 created: 1254035437
 published: false

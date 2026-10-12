@@ -4,6 +4,7 @@ excerpt: "Some mornings I hear loud ticking sounds on the roof of my room, follo
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: squirrels
 title: Squirrels
 created: 1253044736
 published: false

@@ -5,6 +5,7 @@ excerpt: "I tried to subscribe to Zipcar
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: time-accident-1
 title: Time Accident nr. 1
 created: 1254372848
 published: false

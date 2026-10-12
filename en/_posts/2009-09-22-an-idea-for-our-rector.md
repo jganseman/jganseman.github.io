@@ -5,6 +5,7 @@ excerpt: 'Free cookies, brownies, fruit baskets and tons of lemonade: the presid
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: idea-for-rector
 title: An idea for our rector
 created: 1253601174
 published: false

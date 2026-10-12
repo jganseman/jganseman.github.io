@@ -4,6 +4,7 @@ excerpt: "Thanksgiving week means that everyone gets a week off, and I finally g
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: santa-cruz
 title: Santa Cruz
 created: 1259374806
 published: false

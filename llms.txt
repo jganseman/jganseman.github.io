@@ -1,0 +1,27 @@
+# Joachim Ganseman
+
+> Computer scientist working on data science and AI in public services, with interests in music technology and science communication.
+
+## About
+- [About Joachim (English)](https://www.ganseman.be/en/about/)
+- [Over Joachim (Nederlands)](https://www.ganseman.be/nl/about/)
+- [Work at Smals Research (English)](https://www.ganseman.be/en/smals/)
+- [Werk bij Smals Research (Nederlands)](https://www.ganseman.be/nl/smals/)
+
+## Selected Writing
+- [Digital Sovereignty (English)](https://www.ganseman.be/en/smals/2025/04/04/digital-sovereignty/)
+- [Digitale Soevereiniteit (Nederlands)](https://www.ganseman.be/nl/smals/2025/04/04/digitale-soevereiniteit/)
+- [Synthetic Data (English)](https://www.ganseman.be/en/smals/2020/10/28/synthetic-data/)
+- [Synthetic Data (Nederlands)](https://www.ganseman.be/nl/smals/2020/10/28/synthetic-data/)
+- [Some Pitfalls in AI (English)](https://www.ganseman.be/en/smals/2018/01/28/some-pitfalls-in-ai/)
+- [Enkele valkuilen in AI (Nederlands)](https://www.ganseman.be/nl/smals/2018/01/28/enkele-valkuilen-in-ai/)
+- [Rules as Code: From Obstacles to Experiment (English)](https://www.ganseman.be/en/smals/2025/10/20/rules-as-code-from-obstacles-to-experiment/)
+- [Rules as Code: van hindernissen tot experiment (Nederlands)](https://www.ganseman.be/nl/smals/2025/10/20/rules-as-code-van-hindernissen-tot-experiment/)
+- [The AI-Augmented Developer (English)](https://www.ganseman.be/en/smals/2023/04/13/the-ai-augmented-developer/)
+- [De AI-augmented Developer (Nederlands)](https://www.ganseman.be/nl/smals/2023/04/13/de-ai-augmented-developer/)
+
+## Feeds and Indexes
+- [Sitemap](https://www.ganseman.be/sitemap.xml)
+- [Atom feed](https://www.ganseman.be/atom.xml)
+- [English blog](https://www.ganseman.be/en/)
+- [Dutch blog](https://www.ganseman.be/nl/)

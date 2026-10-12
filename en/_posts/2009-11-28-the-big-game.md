@@ -4,6 +4,7 @@ excerpt: "The absolute highlight of the American football season in San Francisc
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: the-big-game
 title: The Big Game
 created: 1259369766
 published: false

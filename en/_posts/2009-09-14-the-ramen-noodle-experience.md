@@ -5,6 +5,7 @@ excerpt: "When I went to the post office 2 days ago, I got approached by an unde
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: ramen-noodle-experience
 title: The Ramen Noodle Experience
 created: 1252908958
 published: false

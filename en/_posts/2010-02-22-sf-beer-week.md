@@ -4,6 +4,7 @@ excerpt: "Often I get the question, \"don't you miss the Belgian beers a lot\", 
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: sf-beer-week
 title: SF Beer Week
 created: 1266827211
 published: false

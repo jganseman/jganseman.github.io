@@ -4,6 +4,7 @@ excerpt: 'Another nice thing about the climate, by the way: outdoor concerts are
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: transitions
 title: Transitions
 created: 1253600469
 published: false

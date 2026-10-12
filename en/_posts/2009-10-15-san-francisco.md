@@ -3,6 +3,7 @@ excerpt: 'I finally found the time to go to San Francisco for an afternoon.'
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: san-francisco
 title: San Francisco
 created: 1255587571
 published: false

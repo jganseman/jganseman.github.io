@@ -4,6 +4,7 @@ excerpt: "I was given a tour of the Knoll building yesterday - it will be my off
 category: stanfordblog
 layout: post
 lang: en
+lang-ref: stanford-office
 title: The Office
 created: 1253083567
 published: false
