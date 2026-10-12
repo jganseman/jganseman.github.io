@@ -25,10 +25,15 @@
   color: $color-sidebar-link;
 }
 
-.sidebar-about h1 {
+.sidebar-site-title {
   color: $color-sidebar-link;
-  margin-top: 0;
+  margin: 0 0 .5rem;
   font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.sidebar-site-title a {
+  color: inherit;
 }
 
 .sidebar-nav {
