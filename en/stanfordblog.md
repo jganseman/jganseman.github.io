@@ -2,6 +2,7 @@
 layout: archive
 title: Stanford blog
 lang: en
+lang-ref: stanfordblog
 category: stanfordblog
 published: false
 ---

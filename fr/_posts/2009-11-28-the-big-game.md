@@ -1,0 +1,19 @@
+---
+excerpt: Le Big Game, le match annuel de football américain entre Stanford et Berkeley, est le grand rendez-vous sportif de la saison dans la Bay Area.
+category: stanfordblog
+layout: post
+lang: fr
+lang-ref: the-big-game
+title: The Big Game
+created: 1259369766
+published: false
+---
+Le grand moment de la saison de football américain à San Francisco et dans la Bay Area est le match annuel entre Stanford et Berkeley, le [Big Game](http://en.wikipedia.org/wiki/Big_Game_%28football%29). Une semaine d'événements le précède. L'emblème de Berkeley, ou « Cal », est un ours. À Stanford, la semaine commence par l'empalement d'un ours en peluche sur The Claw, une sculpture pointue au milieu d'une fontaine près du centre étudiant. L'ours y reste jusqu'à la fin du match et rappelle à tous l'objectif du samedi suivant : « Beat Cal ».
+
+La semaine se poursuit avec des rassemblements pour l'équipe ([vidéo](http://www.youtube.com/watch?v=qBGlgTq4d_s)), des activités comme des collectes de sang et la vente du calendrier annuel des cheerleaders, le tout accompagné par la [Marching Band](http://www.lsjumb.stanford.edu/home/). Cette fanfare est particulière : contrairement aux harmonies ou aux fanfares classiques, ses membres ne portent pas d'uniforme et confectionnent des costumes loufoques. Cette année, les percussionnistes étaient déguisés en stormtroopers de Star Wars. Les tubistes peignent leurs instruments de toutes les couleurs ; l'ensemble ressemble à un grand cirque. Le spectacle du jour du Big Game est toujours très attendu, car il arrive que la fanfare fasse quelque chose d'assez [audacieux ou insultant](http://en.wikipedia.org/wiki/Stanford_Band#Controversial_actions_by_the_band) selon les normes américaines, au point que Stanford menace presque de la renvoyer. Cette fois, elle est restée bon enfant : elle a expliqué qu'un ours est une mascotte peu réaliste (« Avez-vous déjà croisé un grizzly ? En général, mieux vaut ne pas être dans les parages. »).
+
+Le Big Game a eu lieu le samedi 21 novembre. Il faisait beau et le Stanford Stadium, qui peut accueillir 50 000 personnes, affichait complet. Sur les parkings et devant le stade, les gens faisaient des barbecues, pique-niquaient et préparaient des hot-dogs. Les étudiants disposaient d'un nombre limité de billets gratuits, distribués dans l'ordre d'arrivée. En faisant la queue 90 minutes à l'avance, j'ai réussi de justesse à entrer et à voir le match depuis la Red Zone, réservée aux étudiants. J'ai regardé la première mi-temps depuis les escaliers devant le terrain, puis me suis installé au dernier rang pour la seconde, avec une belle vue d'ensemble.
+
+Le football américain se joue officiellement en quatre périodes de quinze minutes, mais les arrêts, les pauses et les temps morts prolongent le match à plus de trois heures. J'ai surtout compris que l'une des équipes doit amener le ballon de l'autre côté et que l'autre essaie de l'en empêcher par tous les moyens. En gros, une équipe court pendant dix secondes avant qu'un joueur soit plaqué, puis tout le monde a trente secondes pour se replacer avant la prochaine course de dix secondes. Il arrive que quelqu'un se faufile et parcoure trente mètres, mais en dehors de ces moments, je n'ai pas trouvé le match très palpitant. Il était aussi régulièrement interrompu par des publicités ou des annonces de sponsors.
+
+Quant au résultat : nous avons perdu. Stanford a apparemment une bonne équipe cette année et a gagné la première mi-temps, mais Cal l'a largement dominée en seconde période. La dernière petite chance de victoire s'est envolée deux minutes avant la fin. Ce sera pour la prochaine fois...

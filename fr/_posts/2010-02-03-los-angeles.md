@@ -1,0 +1,21 @@
+---
+excerpt: Le salon NAMM est le plus grand salon professionnel de l'industrie musicale au monde.
+category: stanfordblog
+layout: post
+lang: fr
+lang-ref: los-angeles
+title: Los Angeles
+created: 1265160175
+published: false
+---
+Le [salon NAMM](http://www.namm.org/thenammshow/2010) est le plus grand salon professionnel de l'industrie musicale au monde. Plus de mille entreprises se réunissent à Anaheim à la mi-janvier pour présenter leurs nouveautés. Environ 50 000 visiteurs viennent les découvrir au Anaheim Convention Center, juste en face de Disneyland. Le salon est normalement réservé aux professionnels de la musique, mais nous avons réussi à y entrer en tant que groupe d'un programme d'études en technologie musicale. Le trajet de San Francisco à Los Angeles dure sept heures ; ajoutez-en trois si vous tombez sur les heures de pointe ou un embouteillage.
+
+Nous étions près de vingt à partir pour un court week-end à Los Angeles afin de visiter le salon. L'organisation n'a pas été simple, car chacun avait un emploi du temps différent, mais tout s'est finalement bien passé. J'ai logé chez les parents d'un camarade originaire de Los Angeles, ce qui était pratique : il connaissait aussi les meilleurs endroits où manger et boire. Pour un très bon café à Santa Monica, essayez [Funnel Mill](http://www.funnelmill.com/), qui moud et prépare sur place le café de votre choix avec un [siphon](http://en.wikipedia.org/wiki/Siphon_coffee), technique que je n'avais jamais vue mais qui donne un excellent résultat. Pour un vaste choix de bières locales et étrangères, [Naja's Place](http://www.najasplace.com/) sur la promenade de la marina de Redondo Beach vaut le détour. Nous avons terminé la dernière soirée par de délicieux sushis chez Sushi Mon, dans le centre de LA.
+
+Nous logions près de Sunset Boulevard, à Santa Monica, assez loin d'Anaheim. Sur la carte, on croirait que le salon se trouve juste de l'autre côté de la ville, mais Los Angeles est en réalité une immense banlieue. Logements, industries et bureaux sont mélangés, sans véritable urbanisme, avec beaucoup de béton et peu d'espaces verts. Pour donner une idée de l'échelle, j'ai créé une image avec deux cartes exactement à la même échelle, en utilisant MapQuest et sa projection équirectangulaire qui conserve les proportions. Imaginez les districts d'Anvers étendus à toute la province : voilà Greater LA.
+
+On comprend vite qu'un bus qui s'arrête à chaque coin de rue n'est pas une solution pour traverser la ville, où les distances parcourues sont pourtant considérées comme normales. Vu l'étendue de l'agglomération et la dispersion des lieux de vie et de travail, il est difficile de mettre en place des transports publics à la fois bon marché et efficaces. Plusieurs immenses autoroutes quadrillent donc la ville pour absorber le trafic automobile, entraînant smog permanent et embouteillages. Pour sortir, il faut aussi une voiture ; il n'y a pas vraiment de centre-ville. Pour avoir un minimum de choix, il faut être prêt à parcourir 25 kilomètres.
+
+Le salon NAMM valait largement le déplacement : il était très bruyant, très fréquenté et épuisant. Parcourir les stands de toutes les entreprises qui cherchent à promouvoir et vendre leurs produits était intéressant, et il était amusant de repérer les célébrités venues découvrir de nouveaux jouets. Lorsque nous avons enfin quitté Los Angeles, les sacs remplis de prospectus, de démos et d'autres objets, le temps s'était gâté. Nous sommes partis sous une forte tempête ; certaines portions d'autoroute étaient inondées et la conduite était dangereuse. Une fois les collines au nord de LA franchies, le soleil est revenu et la vue depuis le flanc de la montagne était magnifique. Nous avons appris plus tard que certaines parties de Los Angeles avaient connu de petites tornades, phénomène censé ne pas se produire en Californie. Les services météo ont incriminé El Niño. Quelques jours après, nous avons eu notre part de tempêtes à Palo Alto.
+
+Dernier conseil : si vous passez dans le coin, faites-vous plaisir et arrêtez-vous chez [In-N-Out Burger](http://www.in-n-out.com/). C'est infiniment meilleur que McDonald's : cette chaîne de fast-food n'utilise pas de produits surgelés et prépare tout frais. La découverte du mois.
